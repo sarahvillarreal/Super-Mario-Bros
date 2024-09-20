@@ -1,0 +1,11 @@
+public enum Estado {
+
+	MAIN_MENU,
+	NIVEL_UNO,
+	NIVEL_DOS,
+	NIVEL_TRES,
+	NIVEL_CUATRO,
+	NIVEL_CINCO,
+	VICTORIA,
+	GAME_OVER
+}
